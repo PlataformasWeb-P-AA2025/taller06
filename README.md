@@ -2,7 +2,7 @@
 
 ### Problemática
 
-* Crear un proceso de importación de datos. Desde la siguiente dirección web a una base de datos local. Usar sqlite y postegres como gestor de base de datos y además usar la librería SqlAlchemy para la creación de la entidad, guardar registros y consulta de información.
+* Crear un proceso de importación de datos. Desde la siguiente dirección web a una base de datos local. Usar sqlite como gestor de base de datos y además usar la librería SqlAlchemy para la creación de la entidad, guardar registros y consulta de información.
 
 Considerandos:
 * Analizar lo que se realiza en la carpeta ejmplo01
